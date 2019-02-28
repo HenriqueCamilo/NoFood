@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HenriqueCamilo/NoFood/issues"
   },
-  "homepage": "https://github.com/HenriqueCamilo/NoFood#readme"
+  "homepage": "https://github.com/HenriqueCamilo/NoFood#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
